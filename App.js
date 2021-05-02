@@ -9,7 +9,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text>Hello React Native!</Text>
+      <Text>Hello React Native.</Text>
       <Image source={require('./assets/icon.png')} />
     </SafeAreaView>
   );
